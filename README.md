@@ -25,4 +25,7 @@ python2 MOHSIN.py
 
 #USER MOHSIN 
 #PASS SYCO 
-![c4ac0ab5ed5f74a470535d67d0e56c3f](https://user-images.githubusercontent.com/72184388/110294856-37de1500-8012-11eb-980b-c915177696c4.gif)
+
+
+https://user-images.githubusercontent.com/72184388/110584870-bad9a980-8191-11eb-84a3-ed68c01aea64.mp4
+
