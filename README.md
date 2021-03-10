@@ -27,5 +27,5 @@ python2 MOHSIN.py
 #PASS SYCO 
 
 
-https://user-images.githubusercontent.com/72184388/110584870-bad9a980-8191-11eb-84a3-ed68c01aea64.mp4
+
 
